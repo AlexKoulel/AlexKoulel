@@ -1,4 +1,4 @@
-## Hi I'm Alex 👋
+## 👋 Hi I'm Alex 
 - 💻 Mainly working with C#, .NET (ASP.NET, WPF), and Java.
 - 🎮 Game dev enthusiast with experience in Unity.
 
