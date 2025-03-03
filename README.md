@@ -1,5 +1,5 @@
 ## Hi I'm Alex 👋
-- 💻 Mainly working with C#, .NET (WPF, Windows Forms, ASP.NET), and Java.
+- 💻 Mainly working with C#, .NET (ASP.NET, WPF), and Java.
 - 🎮 Game dev enthusiast with experience in Unity.
 
 ## ⌨️ Tech Stack
